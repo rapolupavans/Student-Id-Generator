@@ -17,6 +17,7 @@ We created this by using some of the predefined modules in python like:
 
 --> tkinter   -    To work with GUI related components this package is mandatory.
 
+TO EXECUTE THE CODE PLEASE INSTALL ALL THE PACKAGES WHICH ARE MISSING BY USNIG : pip install packagename
 
 
 *** Any Doubts regarding the code please free to contact me on telegram @ https://t.me/kickthebug  ***
