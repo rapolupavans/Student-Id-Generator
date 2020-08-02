@@ -24,7 +24,7 @@ User InterFace Looks like as :
 
 ![User Interface](https://github.com/rapolupavans/Student-Id-Generator/blob/master/UserInterface.png)
 
-Id Card Saved Looks likw as:
+Id Card Saved Looks like as:
 
 ![Id](https://github.com/rapolupavans/Student-Id-Generator/blob/master/Some%20Name.png)
 
