@@ -13,11 +13,20 @@ We created this by using some of the predefined modules in python like:
                    
 --> datetime  -    To get the system date and time we use this package.
 
---> glob      -    As said earlier we gonna create a QR code and saved onto the pc. To search the saved QR code that exists in our                            directory we use this package.
+--> glob      -    As said earlier we gonna create a QR code and saved onto the pc. To search the saved QR code that exists in our directory we use this package.
 
 --> tkinter   -    To work with GUI related components this package is mandatory.
 
 TO EXECUTE THE CODE PLEASE INSTALL ALL THE PACKAGES WHICH ARE MISSING BY USNIG : pip install packagename
+
+User InterFace Looks like as :
+
+
+![User Interface](https://github.com/rapolupavans/Student-Id-Generator/blob/master/UserInterface.png)
+
+Id Card Saved Looks likw as:
+
+![Id](https://github.com/rapolupavans/Student-Id-Generator/blob/master/Some%20Name.png)
 
 
 *** Any Doubts regarding the code please free to contact me on telegram @ https://t.me/kickthebug  ***
